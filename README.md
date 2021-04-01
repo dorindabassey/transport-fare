@@ -1,4 +1,4 @@
-# dorianagala
+# Author: Dorinda Bassey
 c programmer
  this sketch shows how a user can pay for his or her bus fare using a mifare PICC card. 
  * this sketch enables a driver insert fare amount and a registered user scan his/her card 
